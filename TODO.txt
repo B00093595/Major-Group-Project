@@ -1,0 +1,7 @@
+(1) Login.
+(2) Sessions -user should be able to save address.
+(3) Prototype, for now it should be able to use the camera on our device and then take a picture, compress the picture
+and send it to the visiong api and send the data to the geo-location api thereafter.
+(4) Send the data to the GUI.
+(5) If we have time we can try use geo-location again and see if we can get nearby restaurants, cafés and bars nearby.
+(6) Each member is to do their Journal write up's too.
